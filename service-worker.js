@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/maurcord/Project-7/precache-manifest.9482793a901ffafe3279e3fd953a74fd.js"
+  "/maurcord/Project-7/precache-manifest.02d0f5b231c8cea1bea5ff76411bfe33.js"
 );
 
 self.addEventListener('message', (event) => {

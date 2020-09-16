@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "abae5646c5a843a13b81ea9fa5bfa8de",
+    "revision": "4513fb465013c543e9eb82e3e619e38b",
     "url": "/maurcord/Project-7/index.html"
   },
   {
-    "revision": "5614504e1048a3340a40",
+    "revision": "f14908dba94eed044fe1",
     "url": "/maurcord/Project-7/static/css/main.a6bd080b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maurcord/Project-7/static/js/2.1b97b603.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5614504e1048a3340a40",
-    "url": "/maurcord/Project-7/static/js/main.853e1571.chunk.js"
+    "revision": "f14908dba94eed044fe1",
+    "url": "/maurcord/Project-7/static/js/main.217764a8.chunk.js"
   },
   {
     "revision": "fe22da2eeedef8231d9f",
